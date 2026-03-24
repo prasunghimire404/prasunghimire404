@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=%3E_SYSTEM_ONLINE;%3E_USER:+prasunghimire404;%3E_ROLE:+CYBER_ENGINEER;%3E_STATUS:+DEPLOYING_CODE..." alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=%3E_SYSTEM_ONLINE;%3E_USER:+prasunghimire404;%3E_ROLE:+DEVELOPER;%3E_STATUS:+DEPLOYING_CODE..." alt="Header" />
 </div>
 
 <p align="center">
